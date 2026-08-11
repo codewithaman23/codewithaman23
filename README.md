@@ -1,98 +1,188 @@
+# Hi, I'm Aman Singh 👋
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C6FF,100:0072FF&text=AMAN%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Websites;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;Frontend+Developer;JavaScript+Learner;Aspiring+Software+Engineer" alt="Typing SVG">
+<a href="https://github.com/codewithaman23">
+<img src="https://komarev.com/ghpvc/?username=codewithaman23&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views"/>
+</a>
+
+</div>
+
+---
+
+## About Me
+
+Hi, I'm **Aman Singh**, a B.Tech Computer Science student and aspiring Frontend Developer.
+
+I enjoy creating clean, responsive and user-friendly websites. I'm currently focusing on strengthening my frontend development skills and building projects that help me understand how real-world websites are designed and developed.
+
+```text
+Currently Learning
+────────────────────────────
+HTML & CSS
+JavaScript
+Responsive Web Design
+Git & GitHub
+React
+Tailwind CSS
+```
+
+* Building responsive websites
+* Improving JavaScript fundamentals
+* Practicing frontend development through projects
+* Learning modern web technologies
+* Exploring better UI and user experience
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=codewithaman23&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS">
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## Featured Projects
 
-Hi! I'm **Aman Singh**, a B.Tech Computer Science student passionate about
-web development and software engineering.
+### Weather Forecast Dashboard
 
-- 🎓 B.Tech CSE Student
-- 💻 Interested in Web Development
-- 🌱 Currently learning JavaScript, React & DSA
-- 🚀 Building real-world projects
-- 🧠 Improving problem-solving skills
-- 🎯 Preparing for Software Engineering placements
+A responsive weather application that allows users to search for a city and get real-time weather information through an API.
+
+**Technologies:** HTML · CSS · JavaScript · OpenWeatherMap API
 
 ---
 
-## 🛠️ Tech Stack
+### Grand Bistro
+
+A modern restaurant landing page designed to practice responsive layouts, UI design and frontend development.
+
+**Technologies:** HTML · CSS · JavaScript
+
+---
+
+### Laundry Website
+
+A responsive laundry service website focused on clean design, mobile responsiveness and user-friendly navigation.
+
+**Technologies:** HTML · CSS · JavaScript
+
+---
+
+## My Learning Journey
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,tailwind,nodejs,git,github,vscode">
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ The Grand Bistro Restaurant
-
-Modern and responsive vegetarian restaurant website.
-
-**HTML • CSS • JavaScript • ScrollReveal • EmailJS**
-
-[🔗 View Project](https://github.com/codewithaman23/the-grand-bistro-restaurant)
-
----
-
-### 🌦️ Real-Time Weather Dashboard
-
-Weather forecasting dashboard using the OpenWeatherMap API.
-
-**HTML • CSS • JavaScript • OpenWeatherMap API**
-
----
-
-### 🎮 Wall Breaker Game
-
-Classic brick-breaking game developed using Python and Pygame.
-
-**Python • Pygame**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithaman23&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaman23&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=codewithaman23&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🎯 2026 Goals
 
 ```text
-💻 Build real-world projects
-🧠 Improve DSA & problem solving
-⚛️ Learn React
-🌐 Improve web development
-🚀 Prepare for software engineering placements
+HTML
+  ↓
+CSS
+  ↓
+Responsive Design
+  ↓
+JavaScript
+  ↓
+Git & GitHub
+  ↓
+React
+  ↓
+Real-World Projects
+```
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithaman23&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaman23&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaman23&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=codewithaman23&hide_border=true" />
+
+</div>
+
+---
+
+## What I'm Working On
+
+```text
+Frontend Development
+        │
+        ├── HTML
+        ├── CSS
+        ├── JavaScript
+        ├── Responsive Design
+        │
+        └── React
+             │
+             └── Building Real Projects
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/codewithaman23">
+<img src="https://img.shields.io/badge/GitHub-codewithaman23-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+
+</div>
+
