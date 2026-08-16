@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Websites;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Building+Responsive+Websites;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br>
 
@@ -18,13 +18,14 @@
 
 Hi, I'm **Aman Singh**, a B.Tech Computer Science student and aspiring Frontend Developer.
 
-I enjoy creating clean, responsive and user-friendly websites. I'm currently focusing on strengthening my frontend development skills and building projects that help me understand how real-world websites are designed and developed.
+I enjoy creating clean, responsive and user-friendly websites. I'm currently focusing on improving my frontend development skills, learning Python and building projects to strengthen my programming fundamentals.
 
 ```text
 Currently Learning
 ────────────────────────────
 HTML & CSS
 JavaScript
+Python
 Responsive Web Design
 Git & GitHub
 React
@@ -33,6 +34,7 @@ Tailwind CSS
 
 * Building responsive websites
 * Improving JavaScript fundamentals
+* Learning Python fundamentals
 * Practicing frontend development through projects
 * Learning modern web technologies
 * Exploring better UI and user experience
@@ -46,6 +48,12 @@ Tailwind CSS
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
@@ -67,7 +75,7 @@ Tailwind CSS
 
 ### Weather Forecast Dashboard
 
-A responsive weather application that allows users to search for a city and get real-time weather information through an API.
+A responsive weather application that allows users to search for a city and get real-time weather information using an API.
 
 **Technologies:** HTML · CSS · JavaScript · OpenWeatherMap API
 
@@ -75,15 +83,15 @@ A responsive weather application that allows users to search for a city and get 
 
 ### Grand Bistro
 
-A modern restaurant landing page designed to practice responsive layouts, UI design and frontend development.
+A modern restaurant landing page created to practice responsive layouts, UI design and frontend development.
 
 **Technologies:** HTML · CSS · JavaScript
 
 ---
 
-### Laundry Website
+### Random Password Generator
 
-A responsive laundry service website focused on clean design, mobile responsiveness and user-friendly navigation.
+A simple password generator that creates random passwords using different combinations of letters, numbers and special characters.
 
 **Technologies:** HTML · CSS · JavaScript
 
@@ -102,6 +110,8 @@ Responsive Design
   ↓
 JavaScript
   ↓
+Python
+  ↓
 Git & GitHub
   ↓
 React
@@ -112,8 +122,6 @@ Real-World Projects
 </div>
 
 ---
-
-
 
 ## Contribution Graph
 
@@ -138,16 +146,17 @@ Real-World Projects
 ## What I'm Working On
 
 ```text
-Frontend Development
-        │
-        ├── HTML
-        ├── CSS
-        ├── JavaScript
-        ├── Responsive Design
-        │
-        └── React
-             │
-             └── Building Real Projects
+Development
+      │
+      ├── HTML
+      ├── CSS
+      ├── JavaScript
+      ├── Python
+      ├── Responsive Design
+      │
+      └── React
+           │
+           └── Building Real Projects
 ```
 
 ---
