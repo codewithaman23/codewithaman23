@@ -47,7 +47,7 @@ I enjoy building projects, experimenting with new technologies, and improving my
 ### 🧰 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 🔌 APIs & Services
