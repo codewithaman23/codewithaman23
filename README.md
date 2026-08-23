@@ -215,13 +215,22 @@ AI-Powered Projects 🚀
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codewithaman23/codewithaman23/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaman23&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithaman23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+</div>
+
 
 ---
 
