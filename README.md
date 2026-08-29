@@ -24,7 +24,7 @@ I enjoy building responsive, interactive, and user-friendly web applications whi
 * ⚛️ Currently learning **React.js**
 * 🐍 Learning **Python** to strengthen my programming fundamentals
 * 🔨 Learning by building real-world projects
-* 📚 Continuously exploring modern web development technologies
+* 📚 Exploring modern web development technologies
 * 🚀 Working toward becoming a professional **Frontend Developer**
 
 > **Learn → Build → Debug → Improve → Repeat 🔁**
@@ -120,20 +120,36 @@ A simple and interactive web application that generates random passwords using c
 
 <div align="center">
 
-|           🌱 Area           | 📚 Focus                                                     |
-| :-------------------------: | :----------------------------------------------------------- |
-|       ⚛️ **React.js**       | Components, Props, State, Hooks & modern React concepts      |
-| 🌐 **Frontend Development** | Responsive design, UI development & advanced JavaScript      |
-|        🐍 **Python**        | Fundamentals, functions, data structures & programming logic |
-|      🧩 **JavaScript**      | DOM manipulation, ES6+ & interactive web applications        |
-|     🎨 **Tailwind CSS**     | Utility-first styling & responsive UI development            |
-|     🛠️ **Git & GitHub**    | Version control & project management                         |
+|     🌱 Technology    | 📖 What I'm Learning                                    |
+| :------------------: | :------------------------------------------------------ |
+|    ⚛️ **React.js**   | Components, Props, State, Hooks & modern React concepts |
+|   🟨 **JavaScript**  | ES6+, DOM manipulation & interactive web applications   |
+|  🎨 **Tailwind CSS** | Responsive layouts & modern UI development              |
+|     🐍 **Python**    | Programming fundamentals & problem solving              |
+| 🛠️ **Git & GitHub** | Version control & project workflow                      |
 
 </div>
 
 ---
 
-# 📚 My Frontend Development Journey
+# 🎯 What I'm Focusing On
+
+<div align="center">
+
+|        💻 Focus Area        | 🚀 Goal                                     |
+| :-------------------------: | :------------------------------------------ |
+| 🌐 **Frontend Development** | Build responsive & interactive websites     |
+|       ⚛️ **React.js**       | Develop modern component-based applications |
+|    🎨 **UI Development**    | Create clean and user-friendly interfaces   |
+|      🟨 **JavaScript**      | Strengthen logic and advanced concepts      |
+|        🐍 **Python**        | Improve programming fundamentals            |
+|       🔨 **Projects**       | Learn by building real-world applications   |
+
+</div>
+
+---
+
+# 🧩 My Development Journey
 
 <div align="center">
 
@@ -148,84 +164,22 @@ JavaScript
   ↓
 DOM Manipulation
   ↓
-Functions & Arrays
-  ↓
 Frontend Projects
   ↓
 Tailwind CSS
   ↓
 React.js ⚛️
   ↓
-Advanced Frontend Development
+Modern Frontend Development
   ↓
-Modern Web Applications 🚀
+Real-World Web Applications 🚀
 ```
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-* [x] Learn HTML fundamentals
-* [x] Learn CSS fundamentals
-* [x] Practice responsive web design
-* [x] Learn JavaScript fundamentals
-* [x] Build frontend projects
-* [x] Learn DOM manipulation
-* [x] Start learning Tailwind CSS
-* [ ] Improve advanced JavaScript skills
-* [ ] Learn React.js
-* [ ] Build React.js projects
-* [ ] Improve UI/UX development skills
-* [ ] Build a professional developer portfolio
-* [ ] Create more real-world frontend projects
-* [ ] Improve Git & GitHub workflow
-* [ ] Continue improving Python programming
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codewithaman23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaman23&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=codewithaman23&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaman23&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithaman23&theme=tokyonight" alt="GitHub Profile Summary"/>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
+# 💡 What I Believe
 
 <div align="center">
 
@@ -237,7 +191,24 @@ Modern Web Applications 🚀
 
 <br>
 
-*Every project is an opportunity to become a better developer.*
+> Every project is an opportunity to learn something new.
+
+</div>
+
+---
+
+# 📌 Current Status
+
+<div align="center">
+
+```text
+🎓 B.Tech CSE Student
+💻 Frontend Development
+⚛️ Learning React.js
+🐍 Learning Python
+🔨 Building Projects
+📚 Learning Every Day
+```
 
 </div>
 
