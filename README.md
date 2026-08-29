@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;B.Tech+CSE+Student;Python+Learner;Future+AI%2FML+Developer;Building+Projects+%26+Learning+Every+Day" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;B.Tech+CSE+Student;JavaScript+Developer;React.js+Learner;Python+Learner;Building+Projects+%26+Learning+Every+Day" alt="Typing Animation" />
 
 <br><br>
 
@@ -14,17 +14,18 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science Engineering student** passionate about software development, frontend development, and emerging AI technologies.
+I'm a **B.Tech Computer Science Engineering student** focused on becoming a skilled **Frontend Developer**.
 
-I enjoy building projects, experimenting with new technologies, and improving my programming and problem-solving skills through hands-on practice.
+I enjoy building responsive, interactive, and user-friendly web applications while continuously improving my programming and development skills through hands-on projects.
 
-* 💻 Currently learning **Python**
-* 🌐 Building projects with **HTML, CSS & JavaScript**
-* 🧩 Improving my **programming logic & problem-solving**
-* 🤖 Exploring the path toward **Generative AI**
-* 🧠 Preparing to dive deeper into **Data Structures & Algorithms**
+* 💻 Passionate about **Frontend Development**
+* 🌐 Building websites with **HTML, CSS & JavaScript**
+* 🎨 Creating responsive and interactive user interfaces
+* ⚛️ Currently learning **React.js**
+* 🐍 Learning **Python** to strengthen my programming fundamentals
 * 🔨 Learning by building real-world projects
-* 🚀 Working toward becoming a **Software Engineer & AI Developer**
+* 📚 Continuously exploring modern web development technologies
+* 🚀 Working toward becoming a professional **Frontend Developer**
 
 > **Learn → Build → Debug → Improve → Repeat 🔁**
 
@@ -35,13 +36,13 @@ I enjoy building projects, experimenting with new technologies, and improving my
 ### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
-### 🐍 Programming & Runtime
+### 🐍 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -66,7 +67,7 @@ I enjoy building projects, experimenting with new technologies, and improving my
 
 ## ⛅ Weather Forecast Dashboard
 
-A responsive weather application that allows users to search for a city and view real-time weather information through the OpenWeatherMap API.
+A responsive weather application that allows users to search for a city and view real-time weather information using the OpenWeatherMap API.
 
 ### ✨ Features
 
@@ -100,7 +101,7 @@ A modern and responsive restaurant website created to practice frontend developm
 
 ## 🔐 Random Password Generator
 
-A simple and interactive web application that generates secure random passwords using combinations of letters, numbers, and special characters.
+A simple and interactive web application that generates random passwords using combinations of letters, numbers, and special characters.
 
 ### ✨ Features
 
@@ -115,23 +116,24 @@ A simple and interactive web application that generates secure random passwords 
 
 ---
 
-# 🧠 Currently Learning
+# 📚 Currently Learning
 
 <div align="center">
 
-|         🌱 Area        | 📚 Focus                                                   |
-| :--------------------: | :--------------------------------------------------------- |
-|      🐍 **Python**     | Fundamentals, functions, data structures & problem solving |
-|       🧩 **DSA**       | Algorithms, data structures & coding practice              |
-| 🌐 **Web Development** | JavaScript, DOM & advanced frontend concepts               |
-|  🤖 **Generative AI**  | Python → AI fundamentals → Generative AI                   |
-|  🛠️ **Git & GitHub**  | Version control & project management                       |
+|           🌱 Area           | 📚 Focus                                                     |
+| :-------------------------: | :----------------------------------------------------------- |
+|       ⚛️ **React.js**       | Components, Props, State, Hooks & modern React concepts      |
+| 🌐 **Frontend Development** | Responsive design, UI development & advanced JavaScript      |
+|        🐍 **Python**        | Fundamentals, functions, data structures & programming logic |
+|      🧩 **JavaScript**      | DOM manipulation, ES6+ & interactive web applications        |
+|     🎨 **Tailwind CSS**     | Utility-first styling & responsive UI development            |
+|     🛠️ **Git & GitHub**    | Version control & project management                         |
 
 </div>
 
 ---
 
-# 📚 My Development Journey
+# 📚 My Frontend Development Journey
 
 <div align="center">
 
@@ -150,15 +152,13 @@ Functions & Arrays
   ↓
 Frontend Projects
   ↓
-Python Fundamentals
+Tailwind CSS
   ↓
-Programming Logic
+React.js ⚛️
   ↓
-Data Structures & Algorithms
+Advanced Frontend Development
   ↓
-Generative AI 🤖
-  ↓
-AI-Powered Projects 🚀
+Modern Web Applications 🚀
 ```
 
 </div>
@@ -172,14 +172,16 @@ AI-Powered Projects 🚀
 * [x] Practice responsive web design
 * [x] Learn JavaScript fundamentals
 * [x] Build frontend projects
-* [x] Start learning Python
-* [ ] Improve Python programming logic
-* [ ] Strengthen DSA fundamentals
-* [ ] Solve coding problems consistently
-* [ ] Learn Generative AI
-* [ ] Build AI-powered projects
+* [x] Learn DOM manipulation
+* [x] Start learning Tailwind CSS
+* [ ] Improve advanced JavaScript skills
+* [ ] Learn React.js
+* [ ] Build React.js projects
+* [ ] Improve UI/UX development skills
 * [ ] Build a professional developer portfolio
-* [ ] Contribute to open-source projects
+* [ ] Create more real-world frontend projects
+* [ ] Improve Git & GitHub workflow
+* [ ] Continue improving Python programming
 
 ---
 
@@ -209,25 +211,17 @@ AI-Powered Projects 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaman23&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaman23&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 <br>
 
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithaman23&theme=tokyonight" alt="GitHub Profile Summary"/>
 
-
+</div>
 
 ---
 
@@ -272,4 +266,5 @@ AI-Powered Projects 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
 
 </div>
+
 
