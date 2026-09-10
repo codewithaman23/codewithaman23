@@ -108,16 +108,5 @@ Generate secure random passwords instantly.
 
 ---
 
-# 🧩 My Journey
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[HTML/CSS] --> B[JavaScript]
-    B --> C[DOM Manipulation]
-    C --> D[Tailwind CSS]
-    D --> E[React.js]
-    E --> F[🚀 Pro Developer]
-    style F fill:#8A2BE2,stroke:#fff,stroke-width:2px,color:#fff
 
