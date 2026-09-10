@@ -124,4 +124,14 @@ Generate secure random passwords instantly.
 
 </div>
 
+---
+
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/codewithaman23"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80" alt="Footer"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:5865F2,100:8A2BE2&height=120&section=footer" width="100%"/> </div> ```
+
+
+
 
