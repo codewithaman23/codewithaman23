@@ -8,9 +8,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;JavaScript+Developer+%E2%9A%A1;React.js+Learner+%E2%9A%9B%EF%B8%8F;Python+Learner+%F0%9F%90%8D;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%26+Building+Every+Day+%F0%9F%94%A5" alt="Typing Animation"/>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,python" alt="Tech Stack"/>
+
+<br><br>
+
+<!-- Animated Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=codewithaman23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&animation=fade_in" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithaman23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD00" alt="Streak Stats" width="48%"/>
 
 <br><br>
 
@@ -22,19 +28,13 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science Engineering student** focused on becoming a skilled **Frontend Developer**.
-
-I enjoy building responsive, interactive, and user-friendly web applications. I like turning ideas into real projects and learning new technologies through hands-on development.
+I'm a **B.Tech Computer Science Engineering student** focused on becoming a skilled **Frontend Developer**. I enjoy building responsive, interactive, and user-friendly web applications.
 
 * 💻 Passionate about **Frontend Development**
-* 🌐 Building websites with **HTML, CSS & JavaScript**
-* 🎨 Creating responsive and interactive user interfaces
 * ⚛️ Currently learning **React.js**
-* 🐍 Learning **Python** to strengthen my programming fundamentals
-* 🎨 Exploring **Tailwind CSS** for modern UI development
+* 🐍 Learning **Python**
+* 🎨 Exploring **Tailwind CSS**
 * 🔨 Learning by building real-world projects
-* 📚 Continuously improving my development skills
-* 🚀 Working toward becoming a professional **Frontend Developer**
 
 > **Learn → Build → Debug → Improve → Repeat 🔁**
 
@@ -42,43 +42,11 @@ I enjoy building responsive, interactive, and user-friendly web applications. I 
 
 # 💻 Tech Stack
 
-## 🌐 Frontend Development
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies"/>
-
-</div>
-
-<br>
-
-## 🐍 Programming
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-
-</div>
-
-<br>
-
-## 🧰 Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-
-</div>
-
-<br>
-
-## 🔌 APIs & Services
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenWeatherMap-FFB703?style=for-the-badge&logoColor=white" alt="OpenWeatherMap"/>
-
-<img src="https://img.shields.io/badge/EmailJS-FF6B35?style=for-the-badge&logoColor=white" alt="EmailJS"/>
+| Frontend | Programming | Tools | APIs |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> | <img src="https://img.shields.io/badge/OpenWeatherMap-FFB703?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/EmailJS-FF6B35?style=flat-square&logoColor=white" /> |
 
 </div>
 
@@ -86,54 +54,41 @@ I enjoy building responsive, interactive, and user-friendly web applications. I 
 
 # 🛠️ Featured Projects
 
-## ⛅ Weather Forecast Dashboard
+<details open>
+<summary><b>⛅ Weather Forecast Dashboard (Click to Expand)</b></summary>
+<br>
+A responsive weather application using the <b>OpenWeatherMap API</b>.
+<ul>
+  <li>🌍 Search weather by city</li>
+  <li>🌡️ Real-time weather information</li>
+  <li>📱 Responsive design</li>
+</ul>
+<b>Tech:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API</code>
+</details>
 
-A responsive weather application that allows users to search for a city and view real-time weather information using the **OpenWeatherMap API**.
+<details>
+<summary><b>🍽️ Grand Bistro (Click to Expand)</b></summary>
+<br>
+A modern restaurant website with email integration.
+<ul>
+  <li>🏠 Modern landing page</li>
+  <li>📧 Contact form via EmailJS</li>
+  <li>🎨 Interactive UI</li>
+</ul>
+<b>Tech:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>EmailJS</code>
+</details>
 
-### ✨ Features
-
-* 🌍 Search weather by city
-* 🌡️ Real-time weather information
-* ☁️ Weather condition display
-* 🔗 API integration
-* 📱 Responsive design
-* ⚡ Dynamic data rendering
-
-**Technologies:** `HTML` · `CSS` · `JavaScript` · `OpenWeatherMap API`
-
----
-
-## 🍽️ Grand Bistro
-
-A modern and responsive restaurant website created to practice frontend development, UI design, responsive layouts, and email-based form submission.
-
-### ✨ Features
-
-* 🏠 Modern restaurant landing page
-* 🍴 Restaurant information and menu sections
-* 📱 Responsive design
-* 🎨 Interactive user interface
-* 📧 Contact / reservation form
-* ✉️ Email integration using EmailJS
-
-**Technologies:** `HTML` · `CSS` · `JavaScript` · `EmailJS`
-
----
-
-## 🔐 Random Password Generator
-
-A simple and interactive web application that generates random passwords using combinations of uppercase letters, lowercase letters, numbers, and special characters.
-
-### ✨ Features
-
-* 🔑 Random password generation
-* 🔤 Uppercase & lowercase letters
-* 🔢 Numbers
-* 🔣 Special characters
-* ⚡ Instant password generation
-* 📱 Responsive interface
-
-**Technologies:** `HTML` · `CSS` · `JavaScript`
+<details>
+<summary><b>🔐 Random Password Generator (Click to Expand)</b></summary>
+<br>
+Generate secure random passwords instantly.
+<ul>
+  <li>🔑 Customizable length & characters</li>
+  <li>⚡ Instant generation</li>
+  <li>📱 Mobile friendly</li>
+</ul>
+<b>Tech:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+</details>
 
 ---
 
@@ -141,202 +96,28 @@ A simple and interactive web application that generates random passwords using c
 
 <div align="center">
 
-|     🌱 Technology    | 📖 Focus                                                |
-| :------------------: | :------------------------------------------------------ |
-|    ⚛️ **React.js**   | Components, Props, State, Hooks & modern React concepts |
-|   🟨 **JavaScript**  | ES6+, DOM manipulation & interactive web applications   |
-|  🎨 **Tailwind CSS** | Responsive layouts & modern UI development              |
-|     🐍 **Python**    | Programming fundamentals & problem solving              |
-| 🛠️ **Git & GitHub** | Version control & project workflow                      |
+| Technology | Focus |
+| :--- | :--- |
+| ⚛️ **React.js** | Components, Hooks, State Management |
+| 🟨 **JavaScript** | ES6+, DOM, Async/Await |
+| 🎨 **Tailwind CSS** | Utility-first styling, Responsive Design |
+| 🐍 **Python** | Fundamentals, Logic Building |
+| 🛠️ **Git** | Version Control, Collaboration |
 
 </div>
 
 ---
 
-# 🎯 My Current Focus
+# 🧩 My Journey
 
 <div align="center">
 
-### 💻 Frontend Development
-
-Building responsive and interactive websites with modern web technologies.
-
-<br>
-
-### ⚛️ React.js
-
-Learning component-based development and building modern React applications.
-
-<br>
-
-### 🎨 UI Development
-
-Creating clean, responsive, and user-friendly interfaces.
-
-<br>
-
-### 🟨 JavaScript
-
-Strengthening JavaScript concepts and using them to create interactive web experiences.
-
-<br>
-
-### 🐍 Python
-
-Improving programming fundamentals and developing stronger coding logic.
-
-<br>
-
-### 🔨 Building Projects
-
-Turning what I learn into practical projects instead of only watching tutorials.
-
-</div>
-
----
-
-# 🧩 My Frontend Development Journey
-
-<div align="center">
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-Responsive Web Design
-  ↓
-JavaScript
-  ↓
-DOM Manipulation
-  ↓
-Frontend Projects
-  ↓
-Tailwind CSS
-  ↓
-React.js ⚛️
-  ↓
-Modern Frontend Development
-  ↓
-Interactive Web Applications 🚀
-```
-
-</div>
-
----
-
-# 📈 Development Mindset
-
-<div align="center">
-
-```text
-        💡 IDEA
-          ↓
-      📝 PLAN
-          ↓
-      💻 CODE
-          ↓
-      🐛 DEBUG
-          ↓
-      🔧 IMPROVE
-          ↓
-      🚀 BUILD
-          ↓
-       🔁 REPEAT
-```
-
-### "The best way to learn development is to build."
-
-</div>
-
----
-
-# 🧑‍💻 What I Like Building
-
-<div align="center">
-
-|          💻 Area         | 🚀 What I Enjoy                                |
-| :----------------------: | :--------------------------------------------- |
-|      🌐 **Websites**     | Responsive and modern websites                 |
-|     🎨 **UI Design**     | Clean and user-friendly interfaces             |
-|     ⚡ **JavaScript**     | Interactive web experiences                    |
-|       ⚛️ **React**       | Component-based applications                   |
-|        🔌 **APIs**       | Connecting applications with external services |
-| 📱 **Responsive Design** | Websites that work across devices              |
-|      🔨 **Projects**     | Practical projects to apply what I learn       |
-
-</div>
-
----
-
-# 🌱 Learning Philosophy
-
-<div align="center">
-
-### 🚀 Don't just watch tutorials. Build something.
-
-<br>
-
-**Learn → Practice → Build → Debug → Improve**
-
-<br>
-
-> Every project is an opportunity to become a better developer.
-
-</div>
-
----
-
-# 📌 Current Status
-
-<div align="center">
-
-### 🎓 B.Tech CSE Student
-
-### 💻 Frontend Development
-
-### ⚛️ Learning React.js
-
-### 🐍 Learning Python
-
-### 🔨 Building Projects
-
-### 📚 Learning Every Day
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/codewithaman23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-### ⭐ Thanks for visiting my profile!
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%94%A5" alt="Footer Animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:5865F2,100:8A2BE2&height=120&section=footer" width="100%"/>
-
-</div>
-
+```mermaid
+graph LR
+    A[HTML/CSS] --> B[JavaScript]
+    B --> C[DOM Manipulation]
+    C --> D[Tailwind CSS]
+    D --> E[React.js]
+    E --> F[🚀 Pro Developer]
+    style F fill:#8A2BE2,stroke:#fff,stroke-width:2px,color:#fff
 
