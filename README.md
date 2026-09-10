@@ -107,6 +107,21 @@ Generate secure random passwords instantly.
 </div>
 
 ---
+📈 Development Mindset
+<div align="center">
+   💡 IDEA
+     ↓
+   📝 PLAN
+     ↓
+   💻 CODE
+     ↓
+   🐛 DEBUG
+     ↓
+   🔧 IMPROVE
+     ↓
+   🚀 BUILD
+"The best way to learn development is to build."
 
+</div>
 
 
